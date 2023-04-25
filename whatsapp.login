@@ -11,4 +11,4 @@ if number < 0:
 elif number == 0:
     print("The factorial of 0 is 1")
 else:
-    print("The factorial of", number, "is", factorial(numbe)
+    print("The factorial of", number, "ar"'
